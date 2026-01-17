@@ -13,7 +13,7 @@ The project is built as a **Tableau Story** consisting of **five analytical dash
 ## Tableau Workbook
 
 The complete Tableau dashboards and story are available in:  
-[Supply_Chain_Analytics_Dashboard.twbx](Supply Chain Analysis.twbx)
+[Supply_Chain_Analytics_Dashboard.twbx](Supply_Chain_Analysis.twbx)
 
 ---
 
